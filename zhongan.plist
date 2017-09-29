@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://qdjxd.gnway.cc:1234/app/b.png</string>
+                   <string>http://qdjxd.gnway.cc:1234/app/TrainingStudy.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,14 +27,14 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://qdjxd.gnway.cc:1234/app/b.png</string>
+                   <string>http://qdjxd.gnway.cc:1234/app/TrainingStudy.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.ccssoft.mopclient.chongqing</string>
                <key>bundle-version</key>
-               <string>2.1.0</string>
+               <string>1.2.7</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
